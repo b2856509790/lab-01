@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Liam Peng`
+- **CCID:** `boxin3`
 
 ## References and Resources
 
