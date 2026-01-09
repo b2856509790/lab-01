@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `N/A` |
-| `<Add more>` | `N/A`  |
+| ``N/A`    | `N/A` |
+| ``N/A` | `N/A`  |
